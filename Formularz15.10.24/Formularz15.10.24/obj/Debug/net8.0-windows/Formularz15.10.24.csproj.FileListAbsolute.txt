@@ -1,0 +1,16 @@
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\bin\Debug\net8.0-windows\Formularz15.10.24.exe
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\bin\Debug\net8.0-windows\Formularz15.10.24.deps.json
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\bin\Debug\net8.0-windows\Formularz15.10.24.runtimeconfig.json
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\bin\Debug\net8.0-windows\Formularz15.10.24.dll
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\bin\Debug\net8.0-windows\Formularz15.10.24.pdb
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\obj\Debug\net8.0-windows\Formularz15._10._24.Form1.resources
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\obj\Debug\net8.0-windows\Formularz15.10.24.csproj.GenerateResource.cache
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\obj\Debug\net8.0-windows\Formularz15.10.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\obj\Debug\net8.0-windows\Formularz15.10.24.AssemblyInfoInputs.cache
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\obj\Debug\net8.0-windows\Formularz15.10.24.AssemblyInfo.cs
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\obj\Debug\net8.0-windows\Formularz15.10.24.csproj.CoreCompileInputs.cache
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\obj\Debug\net8.0-windows\Formularz15.10.24.dll
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\obj\Debug\net8.0-windows\refint\Formularz15.10.24.dll
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\obj\Debug\net8.0-windows\Formularz15.10.24.pdb
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\obj\Debug\net8.0-windows\Formularz15.10.24.genruntimeconfig.cache
+C:\Users\4TP_gr_1\source\repos\Formularz15.10.24\Formularz15.10.24\obj\Debug\net8.0-windows\ref\Formularz15.10.24.dll

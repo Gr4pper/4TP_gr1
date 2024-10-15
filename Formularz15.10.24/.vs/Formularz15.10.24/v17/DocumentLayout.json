@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4TP_gr_1\\source\\repos\\Formularz15.10.24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABAAD7-2E05-4187-AEF3-2CA96C67935D}|Formularz15.10.24\\Formularz15.10.24.csproj|c:\\users\\4tp_gr_1\\source\\repos\\formularz15.10.24\\formularz15.10.24\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFABAAD7-2E05-4187-AEF3-2CA96C67935D}|Formularz15.10.24\\Formularz15.10.24.csproj|solutionrelative:formularz15.10.24\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFABAAD7-2E05-4187-AEF3-2CA96C67935D}|Formularz15.10.24\\Formularz15.10.24.csproj|c:\\users\\4tp_gr_1\\source\\repos\\formularz15.10.24\\formularz15.10.24\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFABAAD7-2E05-4187-AEF3-2CA96C67935D}|Formularz15.10.24\\Formularz15.10.24.csproj|solutionrelative:formularz15.10.24\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\4TP_gr_1\\source\\repos\\Formularz15.10.24\\Formularz15.10.24\\Form1.cs",
+              "RelativeDocumentMoniker": "Formularz15.10.24\\Form1.cs",
+              "ToolTip": "C:\\Users\\4TP_gr_1\\source\\repos\\Formularz15.10.24\\Formularz15.10.24\\Form1.cs",
+              "RelativeToolTip": "Formularz15.10.24\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:07:28.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\4TP_gr_1\\source\\repos\\Formularz15.10.24\\Formularz15.10.24\\Form1.cs",
+              "RelativeDocumentMoniker": "Formularz15.10.24\\Form1.cs",
+              "ToolTip": "C:\\Users\\4TP_gr_1\\source\\repos\\Formularz15.10.24\\Formularz15.10.24\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Formularz15.10.24\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:52:16.221Z",
+              "EditorCaption": " [Projekt]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
