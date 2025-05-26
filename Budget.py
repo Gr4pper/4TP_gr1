@@ -38,8 +38,8 @@ class BudgetManager:
         self.add_button.grid(row=2, column=0, columnspan=4, pady=10)
 
         self.tree = ttk.Treeview(self.root, columns=("Data", "Rodzaj", "Kwota", "Kategoria", "Opis"), show='headings', height=12)
-        for col in self.tree["columns"]:
-            self.tree.heading(col, text=col)
+        for i in self.tree["columns"]:
+            self.tree.heading(i, text=i)
         self.tree.pack(pady=10)
 
         self.balance_label = tk.Label(self.root, text="Bilans: 0.00 zł", font=("Arial", 14))
